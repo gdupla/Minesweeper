@@ -1,0 +1,11 @@
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp2.2\Minesweeper.deps.json
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp2.2\Minesweeper.runtimeconfig.json
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp2.2\Minesweeper.runtimeconfig.dev.json
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp2.2\Minesweeper.dll
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\bin\Debug\netcoreapp2.2\Minesweeper.pdb
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp2.2\Minesweeper.csprojAssemblyReference.cache
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp2.2\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp2.2\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp2.2\Minesweeper.AssemblyInfo.cs
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp2.2\Minesweeper.dll
+C:\Users\gdupsal.MDEF\source\repos\Minesweeper\Minesweeper\obj\Debug\netcoreapp2.2\Minesweeper.pdb
